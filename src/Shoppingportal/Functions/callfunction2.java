@@ -1,8 +1,8 @@
-package Shoppingportal;
+package Shoppingportal.Functions;
 
-import Shoppingportal.fruitshop.grapes;
-import Shoppingportal.fruitshop.mango;
-import Shoppingportal.fruitshop.watermelon;
+import Shoppingportal.Products.fruitshop.grapes;
+import Shoppingportal.Products.fruitshop.mango;
+import Shoppingportal.Products.fruitshop.watermelon;
 
 import java.util.ArrayList;
 import java.util.Scanner;

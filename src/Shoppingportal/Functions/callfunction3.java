@@ -1,8 +1,8 @@
-package Shoppingportal;
+package Shoppingportal.Functions;
 
-import Shoppingportal.groceryshop.cookies;
-import Shoppingportal.groceryshop.maggie;
-import Shoppingportal.groceryshop.soyasauce;
+import Shoppingportal.Products.groceryshop.cookies;
+import Shoppingportal.Products.groceryshop.maggie;
+import Shoppingportal.Products.groceryshop.soyasauce;
 
 import java.util.ArrayList;
 import java.util.Scanner;
