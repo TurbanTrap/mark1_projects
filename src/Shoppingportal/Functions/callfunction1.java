@@ -1,8 +1,8 @@
-package Shoppingportal;
+package Shoppingportal.Functions;
 
-import Shoppingportal.wineshop.Jackdaniels;
-import Shoppingportal.wineshop.Oldmonk;
-import Shoppingportal.wineshop.blackandwhite;
+import Shoppingportal.Products.wineshop.Jackdaniels;
+import Shoppingportal.Products.wineshop.Oldmonk;
+import Shoppingportal.Products.wineshop.blackandwhite;
 
 import java.util.ArrayList;
 import java.util.Scanner;

@@ -1,6 +1,6 @@
-package Shoppingportal.groceryshop;
+package Shoppingportal.Products.groceryshop;
 
-import Shoppingportal.main;
+import Shoppingportal.Functions.main;
 
 import java.util.Scanner;
 

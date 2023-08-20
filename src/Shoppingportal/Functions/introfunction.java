@@ -1,4 +1,4 @@
-package Shoppingportal;
+package Shoppingportal.Functions;
 import java.util.ArrayList;
 
 public class introfunction {
