@@ -27,7 +27,6 @@ public class introfunction {
         bulk.add(fruitshop);
         bulk.add(groceryshop);
 
-        System.out.println("             DN REGALIA          ");
         System.out.println("    Which Section Do You want to Visit ??   ");
 
 
