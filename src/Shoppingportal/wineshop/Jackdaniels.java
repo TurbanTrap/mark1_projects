@@ -1,9 +1,11 @@
-package Shoppingportal;
+package Shoppingportal.wineshop;
+
+import Shoppingportal.main;
 
 import java.util.Scanner;
 
 public class Jackdaniels extends main {
-    Jackdaniels(){
+    public Jackdaniels(){
 
             Scanner scanner = new Scanner(System.in);
             System.out.println("Enter no(s) of Jack Daniels");

@@ -1,8 +1,10 @@
-package Shoppingportal;
+package Shoppingportal.wineshop;
+
+import Shoppingportal.main;
 
 import java.util.Scanner;
 public class Oldmonk extends main {
-    Oldmonk(){
+    public  Oldmonk(){
 
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter no(s) of Old monk .");

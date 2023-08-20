@@ -1,10 +1,12 @@
-package Shoppingportal;
+package Shoppingportal.wineshop;
+
+import Shoppingportal.main;
 
 import java.util.Scanner;
 
-public class blackandwhite extends main{
+public class blackandwhite extends main {
 
-    blackandwhite(){
+    public blackandwhite(){
 
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter no(s) of B & W ");
